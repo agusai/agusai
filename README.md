@@ -1,45 +1,44 @@
-### Hi, I'm Agus 👋
+<h1 align="center">Hi 👋, I'm Agus</h1>
+<h3 align="center">Full-Stack Developer & AI Builder from Malaysia 🇲🇾</h3>
 
-Full-stack developer & AI builder from Malaysia 🇲🇾  
-Suka bina projek yang solve masalah sebenar — dari AI assistant sampai mobile app.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=agusai&label=Profile%20views&color=0e75b6&style=flat" alt="agusai" />
+</p>
 
 ---
 
-### 🚀 Projek Utama
+### 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-**🤖 Ayra — AI Assistant**
-Personal AI assistant dengan memory, voice & automation.
-- Stack: Python, LLM, TTS/STT
-- [Repo](https://github.com/agusai/AYRA_v3)
+#### 🤖 [AYRA v3](https://github.com/agusai/AYRA_v3)
+Personal AI assistant with memory, voice & automation.
+`Python` `LLM` `TTS/STT`
 
 </td>
 <td width="50%">
 
-**💼 Lajo App Premium**
-Full-stack premium app, production-ready.
-- Stack: [isi stack kau]
-- [Repo](https://github.com/agusai/lajo-app-premium)
+#### 💼 [Lajo App Premium](https://github.com/agusai/lajo-app-premium)
+Production-ready full-stack premium application.
+`Full-Stack` `Premium`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**🎵 Jamming App**
-[Letak description ringkas]
-- Stack: [isi stack]
-- [Repo](https://github.com/agusai/Jamming_App)
+#### 🎵 [Jamming App](https://github.com/agusai/Jamming_App)
+Music jamming application.
+`App` `Music`
 
 </td>
 <td width="50%">
 
-**🔧 [Projek ke-4 kau]**
-[Description]
-- [Repo](link)
+#### 🌐 [Ayra Public](https://github.com/agusai/ayra-public)
+Public release of Ayra AI project.
+`AI` `Public`
 
 </td>
 </tr>
@@ -47,26 +46,45 @@ Full-stack premium app, production-ready.
 
 ---
 
-### 🛠 Tech Stack
+### 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
-![Agus's GitHub stats](https://github-readme-stats.vercel.app/api?username=agusai&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=agusai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusai&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agusai&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agusai&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-### 📫 Contact
+### 🏆 GitHub Trophies
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:emailkau@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/usernamekau)
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/usernamekau)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=agusai&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+### 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/agusai"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:emailkau@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center"><i>⚡ Building things that matter, one commit at a time.</i></p>
